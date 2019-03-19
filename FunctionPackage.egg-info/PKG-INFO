@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: FunctionPackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Motselisi/FunctionPackage
+Author: Motselisi
+Author-email: motselisileketa@gmail.com
+License: MIT
+Description: # FunctionPackage
+        This library was created as a first attempt to publish our own Python package
+        
+Platform: UNKNOWN

@@ -1,0 +1,7 @@
+README.md
+setup.py
+FunctionPackage.egg-info/PKG-INFO
+FunctionPackage.egg-info/SOURCES.txt
+FunctionPackage.egg-info/dependency_links.txt
+FunctionPackage.egg-info/requires.txt
+FunctionPackage.egg-info/top_level.txt
