@@ -1,5 +1,8 @@
 README.md
 setup.py
+FunctionPackage/__init__.py
+FunctionPackage/recursion.py
+FunctionPackage/sorting.py
 FunctionPackage.egg-info/PKG-INFO
 FunctionPackage.egg-info/SOURCES.txt
 FunctionPackage.egg-info/dependency_links.txt
