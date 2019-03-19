@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/Motselisi/FunctionPackage',
+    url='https://github.com/Motselisi/FunctionPackage.git',
     author='Motselisi',
     author_email='motselisileketa@gmail.com'
 )
